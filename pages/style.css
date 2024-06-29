@@ -1,0 +1,194 @@
+body{
+    background-color: white;
+}
+
+.menu-container{
+    background-color: wheat;
+    color: red;
+    width: 60%;
+    height: 1300px;
+    margin: 2px 300px;
+    position: relative;
+    border: 10px solid red;
+}
+
+.main-heading{
+    font-size: 60px;
+    margin-left: 50px;
+   padding-top: 40px;
+   font-style: italic;
+}
+
+.image-logo{
+    width: 180px;
+    height: 180px;
+    position: absolute;
+    right: 50px;
+    top: 40px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px 2px red;
+}
+
+.menu-card-container{
+    width: 350px;
+    height: 330px;
+   box-shadow: 0px 0px 10px 1px red;
+   border-radius: 10px ;
+    margin-top: 50px;
+    margin-left: 30px;
+    position: relative;
+}
+
+.menu-card-main-heading{
+    width: 350px;
+    height: 25px;
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding: 2px 2px;
+}
+
+.menu-card-sub-heading{
+    text-align: left;
+    color: red;
+    font-size: 20px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+.full-hlaf-menu{
+    margin-left: 200px;
+    margin-top: 10px;
+    color: red;
+}
+
+.menu-card-container-2{
+    width: 410px;
+    height: 300px;
+    margin-top: 30px;
+    margin-left: 40px;
+    box-shadow: 0px 0px 10px 1px red;
+    border-radius: 10px ;
+    position: absolute;
+   left: 350px;
+   top: 0px
+
+}
+
+.menu-card-main-heading-2{
+    width: 410px;
+    height: 25px;
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding: 2px 2px;
+   
+}
+
+.full-hlaf-menu-2{
+    margin-left: 200px;
+    margin-top: 10px;
+    color: red;
+}
+
+.menu-card-sub-heading-2{
+    text-align: left;
+    color: red;
+    font-size: 20px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+.menu-card-container-3{
+    width: 350px;
+    height: 490px;
+    margin-top: 30px;
+    margin-left: 40px;
+    box-shadow: 0px 0px 10px 1px red;
+    border-radius: 10px ;
+    position: absolute;
+   right: 450px;
+   top: 300px
+}
+
+.menu-card-container-4{
+    width: 410px;
+    height: 460px;
+    margin-top: 30px;
+    margin-left: 40px;
+    box-shadow: 0px 0px 10px 1px red;
+    border-radius: 10px ;
+    position: absolute;
+   left: 350px;
+   top: 0px
+}
+
+.menu-card-main-heading-4{
+    width: 410px;
+    height: 25px;
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding: 2px 2px;
+}
+
+.full-hlaf-menu-4{
+    margin-left: 240px;
+    margin-top: 10px;
+    color: red;
+}
+
+.menu-card-sub-heading-4{
+    text-align: left;
+    color: red;
+    font-size: 20px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+.img-menu{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    position: absolute;
+    border: none;
+    box-shadow: 0px 0px 10px 1px red; 
+    top: 515px;
+    left: 0px;
+}
+
+.img-menu-1{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    position: absolute;
+    border: none;
+    box-shadow: 0px 0px 10px 1px red; 
+    top: 515px;
+    left: 220px
+}
+
+.img-menu-2{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    position: absolute;
+    border: none;
+    box-shadow: 0px 0px 10px 1px red; 
+    top: 515px;
+    left: 440px;
+}
+
+.img-menu-3{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    position: absolute;
+    border: none;
+    box-shadow: 0px 0px 10px 1px red; 
+    top: 515px;
+    left: 650px;
+}
